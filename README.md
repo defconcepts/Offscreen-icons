@@ -1,6 +1,6 @@
-#City Icons for Offscreen Magazine 
+[#City Icons for Offscreen Magazine](http://adamwhitcroft.com/offscreen/)
 
-Commissioned by [Offscreen Magazine](http://www.offscreenmag.com/issue5/) for their fifth issue feature "A Web Worker's Field Guide", this collection of icons depicts a well known building or ideogram from 14 cities around the world.
+Designed by [@adamwhitcroft](https://twitter.com/adamwhitcroft) and commissioned by [Offscreen Magazine](http://www.offscreenmag.com/issue5/) for their fifth issue feature "A Web Worker's Field Guide", this collection of icons depicts a well known building or ideogram from 14 cities around the world.
 
 * Cape Town
 * London
